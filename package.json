@@ -1,0 +1,16 @@
+{
+  "name": "pruebas-tecnicas",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "Solucion/Trainee",
+    "Solucion/Junior/*",
+    "Solucion/Mid/*",
+    "Solucion/Senior/*"
+  ],
+  "dependencies": {
+    "react-hook-form": "^7.56.4",
+    "react-icons": "^5.5.0",
+    "zustand": "^5.0.5"
+  }
+}
